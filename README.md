@@ -11,7 +11,7 @@ Following basic steps are executed as usual:
 4. Data pre-processing.
 5. Random Sampling with train test split.
 6. Build the model on train data.
-7. Use Tradeoff/GridSearch to perform the best hyperparameter tuning.
+7. Use Tradeoff/GridSearchCV to perform the best hyperparameter tuning.
 8. Test the model on test data.
-9. Build the confusion matrix and evaluate using various evaluation parameters.
+9. Build the confusion matrix and evaluate the model using various evaluation parameters.
 10. Re-run the model from some previous steps if required.
